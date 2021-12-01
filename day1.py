@@ -53,6 +53,7 @@ def alt2():
     returnList, returnAnswer = alt_call(resultList,'sum')
     print(returnAnswer)
 
+
 def alt_call(input, measureType):
 
     previous = input[0]
